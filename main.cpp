@@ -6,7 +6,7 @@
 #define DECKSIZE 40
 using namespace std;
 
-
+//comment to see if git works
 
 struct card{
     int num;
